@@ -1,10 +1,10 @@
-Hola soy Antonio Flores
+Hi, I'm Antonio de Jesus Flores Nuñez
 
--🖥️ Trabajo como back-end en distintos lenguajes de programación.
+-🖥️ I work as a back-end in different programming languages.
 
--📜 Estoy estudiando Asp.Net Core 3.0.
+-💻 I am currently developing on Asp.Net Core 3.0.
 
--🔨 Siempre aprendiendo nuevas tecnológias.
+-👍 Always learning new technologies.
 
   <div align="center">
     <a href="https://github.com/antonio6712">
